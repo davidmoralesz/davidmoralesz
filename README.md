@@ -1,6 +1,6 @@
 # David Morales
 
-### Web Developer & Senior Web Designer at PartnerHero  
+### Web Developer & Senior Web Designer
 **People-driven leader, full-stack developer | Accessibility First**
 
 ---
